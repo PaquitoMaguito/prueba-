@@ -1,6 +1,6 @@
 Proceso VectoresMN
     Definir m, n, i Como Entero
-	
+	//Prueba version 2
     Escribir "¿Cuántos elementos tendrá el vector 1 (m)?"
     Leer m
     Dimension v1[m]
